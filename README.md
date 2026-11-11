@@ -13,7 +13,8 @@ This project demonstrates Git and GitHub version control.
 - main
 - feature-login
 - feature-payment
-
+- feature-conflict
+                 
 ## Git Operations
 - Repository creation
 - Branch creation
