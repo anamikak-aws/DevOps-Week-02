@@ -6,7 +6,10 @@ This project demonstrates Git and GitHub version control.
 ## Project Files
 - login.txt - Login feature
 - payment.txt - Payment feature
+- login.html - Login page
+- payment.html - Payment page
 - app.py - Python application
+- index.html - Main web page
 - README.md - Project documentation
 
 ## Git Branches
@@ -14,7 +17,7 @@ This project demonstrates Git and GitHub version control.
 - feature-login
 - feature-payment
 - feature-conflict
-                 
+
 ## Git Operations
 - Repository creation
 - Branch creation
@@ -22,6 +25,7 @@ This project demonstrates Git and GitHub version control.
 - Pushing changes to GitHub
 - Pull Requests
 - Branch merging
+- Merge conflict resolution
 
 ## Technologies
 - Git
